@@ -35,7 +35,6 @@
   <br>
 </div>
 
-📊 GitHub Stats
 <div align="center">
   <h3><b>🎄 Github Stats 🎄</b></h3>
   <img src="https://github-readme-stats.vercel.app/api?username=pilsung-choi&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />

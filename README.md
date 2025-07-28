@@ -34,3 +34,19 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+📊 GitHub Stats
+<div align="center">
+  <h3><b>🎄 Github Stats 🎄</b></h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=pilsung-choi&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+</div>
+<br>
+<div align="center">
+  <h3><b>🔥 Most Used Languages 🔥</b></h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilsung-choi&langs_count=8&layout=compact&theme=radical&hide_border=true" />
+</div>
+<br>
+<div align="center">
+  <h3><b>🔥 GitHub Streak 🔥</b></h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pilsung-choi&theme=radical&hide_border=true" />
+</div>
